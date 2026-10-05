@@ -8,5 +8,6 @@ public class project {
 			System.out.println("Division is:+(a/b));
 			System.out.println("Thanks for using My Applications");
                         System.out.println("Got it");
+		    System.out.println(".............");
 	}
 }
