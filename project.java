@@ -5,7 +5,7 @@ public class project {
 	        	System.out.println("Addition is:"+(a+b));
 			System.out.println("difference is:"+(a-b));
 			System.out.println("product is:"+(a*b));
-			System.out.println("Division is:+(a/b));
+			System.out.println("Division is:"+(a/b));
 			System.out.println("Thanks for using My Applications");
                         System.out.println("Got it");
 		    System.out.println(".............");
