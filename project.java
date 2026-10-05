@@ -2,7 +2,8 @@ public class project {
 	public static void main(String[] args) {
 	    int a=10;
 	    int b=5;
-		System.out.println("This is very basic java app")
+		System.out.println("This is very basic java app");
+			System.out.println("success");
 	        	System.out.println("Addition is:"+(a+b));
 			System.out.println("difference is:"+(a-b));
 			System.out.println("product is:"+(a*b));
